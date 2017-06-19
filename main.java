@@ -4,6 +4,7 @@ public class main
 {
     public static void main()
     {
+       //Dodaje komentarz ..
         Scanner in=new Scanner(System.in);
 
         Random generator = new Random();
